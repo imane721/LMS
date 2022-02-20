@@ -1,0 +1,10 @@
+     9	int main(int argc, const char * argv[]) {
+    10	    try {
+    11	        // todo loop tokenizer
+    12	        std::string line;
+    13	        char *buffer;
+      	
+    14	        while ((buffer = readline("$ "))) {
+    15	//    while (getline(std::cin, line)) {
+    16	            auto symbols = tokenize(buffer);
+    17	            auto commands = getCommands(symbols);

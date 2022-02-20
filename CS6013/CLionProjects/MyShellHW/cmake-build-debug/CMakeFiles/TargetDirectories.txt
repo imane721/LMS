@@ -1,0 +1,3 @@
+/Users/emy/CLionProjects/MyShellHW/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/emy/CLionProjects/MyShellHW/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/emy/CLionProjects/MyShellHW/cmake-build-debug/CMakeFiles/MyShellHW.dir

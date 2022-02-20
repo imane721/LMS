@@ -1,0 +1,3 @@
+/Users/emy/CLionProjects/myShell/CMakeFiles/myShell.dir
+/Users/emy/CLionProjects/myShell/CMakeFiles/edit_cache.dir
+/Users/emy/CLionProjects/myShell/CMakeFiles/rebuild_cache.dir

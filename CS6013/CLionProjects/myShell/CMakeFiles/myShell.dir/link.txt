@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -lreadline -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/myShell.dir/main.cpp.o CMakeFiles/myShell.dir/shelpers.cpp.o -o myShell 
