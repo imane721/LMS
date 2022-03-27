@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/IL_malloc.dir/myMalloc.cpp.o CMakeFiles/IL_malloc.dir/MyHashTable.cpp.o CMakeFiles/IL_malloc.dir/Tester.cpp.o -o IL_malloc 
